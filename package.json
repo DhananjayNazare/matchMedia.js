@@ -1,0 +1,22 @@
+{
+  "name": "matchmedia",
+  "version": "0.2.2",
+  "description": "matchMedia polyfill for testing media queries in JS with fix for FF < 36 issue",
+  "main": "matchMedia.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DhananjayNazare/matchMedia.js.git"
+  },
+  "author": "Dhananjay Nazare",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DhananjayNazare/matchMedia.js/issues"
+  },
+  "homepage": "https://github.com/DhananjayNazare/matchMedia.js#readme"
+}
